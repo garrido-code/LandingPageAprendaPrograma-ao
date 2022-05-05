@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    background-color:rgb(21, 23, 25);
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    margin-left: 5.4%;
+    margin-top: 20px;    
+}
+
+
+
+.linkcompra{
+    margin-left: 81%;
+    display: flex;
+    margin-top: -55px;
+    font-size:larger;
+    font-family: 'Inter', sans-serif;
+    text-decoration: none;
+}
+
+a{
+color:rgb(217, 227, 234);
+text-decoration: none;
+
+}
+
+.imagem-principal{
+    width: 100px;
+    height: 400px;
+    display: flex;
+    margin-left:20%;
+    padding-right: 20px;
+    padding-top: 140px;
+  
+}
+
+.chamada{
+    color:rgb(217, 227, 234);
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    padding-top: 70px;
+
+    
+}
+.paragrafo{
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    color: rgb(154, 168, 179);
+
+}
+
+.button{
+    background-color: blue;
+    width: 500px;
+    height:60px;
+    font: bold 18px 'Inter', sans-serif;;
+    text-shadow:none;
+    text-decoration:none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.promo{
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: rgb(154, 168, 179);
+}
+
+
+
